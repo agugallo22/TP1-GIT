@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-- Lorenzo Doleatto
+- [CV Lorenzo Doleatto](lolo.md)
 - Santiago Hubeli
 - Luciano Fontanarrosa
 - Agustín Gallo
