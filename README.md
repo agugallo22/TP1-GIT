@@ -5,4 +5,8 @@
 - Lorenzo Doleatto
 - Santiago Hubeli
 - Luciano Fontanarrosa
-- Agustín Gallo
+- [Agustín Gallo](aguga.md)
+
+NUESTRO CODIGO AVANZADO JS
+- [Script JS](script.js)
+
