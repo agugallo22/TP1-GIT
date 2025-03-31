@@ -1,8 +1,9 @@
 # TP GIT
 
-## Integrantes>
+## Integrantes:
+
 - Lorenzo Doleatto
 - Santiago Hubeli
 - Luciano Fontanarrosa
 - Guido Bruno Gariboldi
-- Agustin Gallo
+- Agustín Gallo
