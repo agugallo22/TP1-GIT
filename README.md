@@ -4,5 +4,5 @@
 
 - Lorenzo Doleatto
 - Santiago Hubeli
-- Luciano Fontanarrosa
+- [Luciano Fontanarrosa](lu.md)
 - Agustín Gallo
