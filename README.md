@@ -6,5 +6,4 @@
 - Santiago Hubeli
 - Luciano Fontanarrosa
 - Guido Bruno Gariboldi
-- Agustín Gallo
 - [Agustín Gallo](aguga.md)
