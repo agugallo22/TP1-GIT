@@ -1,4 +1,4 @@
-**Agustín Gallo**
+### **Agustín Gallo**
 
 ## Formación:
 - Carrera actual: TUP - UTN
