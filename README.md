@@ -2,7 +2,11 @@
 
 ## Integrantes:
 
-- [CV Lorenzo Doleatto](lolo.md)
+- [Lorenzo Doleatto](lolo.md)
 - Santiago Hubeli
 - Luciano Fontanarrosa
-- Agustín Gallo
+- [Agustín Gallo](aguga.md)
+
+NUESTRO CODIGO AVANZADO JS
+- [Script JS](script.js)
+
